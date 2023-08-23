@@ -1,0 +1,32 @@
+#parent {
+    width: 50%;
+    border: 1px solid red;
+    margin: 100px;
+    padding: 10px;
+    /* display: inline-block; */
+
+}
+
+.div1 {
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    display: inline-block;
+
+}
+
+.div2 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display: inline-block;
+
+}
+
+.div3 {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    display: inline-block;
+
+}
